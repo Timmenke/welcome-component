@@ -1,2 +1,2 @@
 # welcome-component
-For Zapata Orquestra tutorial
+Zapata Orquestra tutorial
